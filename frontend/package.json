@@ -43,7 +43,7 @@
     "ngx-cookie": "^4.1.2",
     "ngx-spinner": "^7.0.0",
     "rxjs": "6.3.3",
-    "socket.io-client": "^2.2.0",
+    "socket.io-client": "^3.0.0",
     "typescript": "~3.2.4",
     "zone.js": "^0.8.29"
   },
@@ -57,7 +57,7 @@
     "jasmine": "~2.99",
     "jasmine-core": "~2.99",
     "jasmine-spec-reporter": "~4.2.1",
-    "karma": "~1.7.1",
+    "karma": "~5.0.8",
     "karma-chrome-launcher": "~2.2.0",
     "karma-coverage-istanbul-reporter": "~1.4.2",
     "karma-jasmine": "~1.1.2",
