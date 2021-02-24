@@ -119,7 +119,7 @@
     "jasmine": "^3.3.1",
     "jasmine-core": "~3.3.0",
     "jasmine-reporters": "~2.3.2",
-    "jest": "~23.6.0",
+    "jest": "~24.0.0",
     "lcov-result-merger": "~3.1.0",
     "mocha": "~6.0.1",
     "nyc": "~13.3.0",
